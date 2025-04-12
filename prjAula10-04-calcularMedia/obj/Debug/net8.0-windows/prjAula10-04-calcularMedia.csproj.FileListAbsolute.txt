@@ -1,0 +1,17 @@
+C:\Users\Omen\source\repos\prjAula10-04-calcularMedia\prjAula10-04-calcularMedia\bin\Debug\net8.0-windows\prjAula10-04-calcularMedia.exe
+C:\Users\Omen\source\repos\prjAula10-04-calcularMedia\prjAula10-04-calcularMedia\bin\Debug\net8.0-windows\prjAula10-04-calcularMedia.deps.json
+C:\Users\Omen\source\repos\prjAula10-04-calcularMedia\prjAula10-04-calcularMedia\bin\Debug\net8.0-windows\prjAula10-04-calcularMedia.runtimeconfig.json
+C:\Users\Omen\source\repos\prjAula10-04-calcularMedia\prjAula10-04-calcularMedia\bin\Debug\net8.0-windows\prjAula10-04-calcularMedia.dll
+C:\Users\Omen\source\repos\prjAula10-04-calcularMedia\prjAula10-04-calcularMedia\bin\Debug\net8.0-windows\prjAula10-04-calcularMedia.pdb
+C:\Users\Omen\source\repos\prjAula10-04-calcularMedia\prjAula10-04-calcularMedia\obj\Debug\net8.0-windows\prjAula10_04_calcularMedia.Form1.resources
+C:\Users\Omen\source\repos\prjAula10-04-calcularMedia\prjAula10-04-calcularMedia\obj\Debug\net8.0-windows\prjAula10-04-calcularMedia.csproj.GenerateResource.cache
+C:\Users\Omen\source\repos\prjAula10-04-calcularMedia\prjAula10-04-calcularMedia\obj\Debug\net8.0-windows\prjAula10-04-calcularMedia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omen\source\repos\prjAula10-04-calcularMedia\prjAula10-04-calcularMedia\obj\Debug\net8.0-windows\prjAula10-04-calcularMedia.AssemblyInfoInputs.cache
+C:\Users\Omen\source\repos\prjAula10-04-calcularMedia\prjAula10-04-calcularMedia\obj\Debug\net8.0-windows\prjAula10-04-calcularMedia.AssemblyInfo.cs
+C:\Users\Omen\source\repos\prjAula10-04-calcularMedia\prjAula10-04-calcularMedia\obj\Debug\net8.0-windows\prjAula10-04-calcularMedia.csproj.CoreCompileInputs.cache
+C:\Users\Omen\source\repos\prjAula10-04-calcularMedia\prjAula10-04-calcularMedia\obj\Debug\net8.0-windows\prjAula10-04-calcularMedia.dll
+C:\Users\Omen\source\repos\prjAula10-04-calcularMedia\prjAula10-04-calcularMedia\obj\Debug\net8.0-windows\refint\prjAula10-04-calcularMedia.dll
+C:\Users\Omen\source\repos\prjAula10-04-calcularMedia\prjAula10-04-calcularMedia\obj\Debug\net8.0-windows\prjAula10-04-calcularMedia.pdb
+C:\Users\Omen\source\repos\prjAula10-04-calcularMedia\prjAula10-04-calcularMedia\obj\Debug\net8.0-windows\prjAula10-04-calcularMedia.genruntimeconfig.cache
+C:\Users\Omen\source\repos\prjAula10-04-calcularMedia\prjAula10-04-calcularMedia\obj\Debug\net8.0-windows\ref\prjAula10-04-calcularMedia.dll
+C:\Users\Omen\source\repos\prjAula10-04-calcularMedia\prjAula10-04-calcularMedia\obj\Debug\net8.0-windows\prjAula10-04-calcularMedia.sourcelink.json

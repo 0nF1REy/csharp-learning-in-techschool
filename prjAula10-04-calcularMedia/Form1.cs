@@ -11,13 +11,14 @@ namespace prjAula10_04_calcularMedia
         {
             try
             {
-                if (string.IsNullOrWhiteSpace(textNota1.Text) ||
-                    string.IsNullOrWhiteSpace(textNota2.Text) ||
-                    string.IsNullOrWhiteSpace(textNota3.Text))
+                if (!double.TryParse(textNota1.Text, out double nota1) ||
+                    !double.TryParse(textNota2.Text, out double nota2) ||
+                    !double.TryParse(textNota3.Text, out double nota3))
                 {
-                    MessageBox.Show("Insira algo valido");
+                    MessageBox.Show("Insira valores numéricos válidos", "Erro", MessageBoxButtons.OK, MessageBoxIcon.Error);
                     return;
                 }
+
 
                 double nota1 = double.Parse(textNota1.Text);
                 double nota2 = double.Parse(textNota2.Text);
@@ -25,11 +26,13 @@ namespace prjAula10_04_calcularMedia
 
                 if (nota1 > 10 || nota2 > 10 || nota3 > 10)
                 {
-                    MessageBox.Show("Insira valores iguais ou menores que 10");
+                    MessageBox.Show("Insira valores iguais ou menores que 10", "Aviso", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                    return; // Interrompe a execução
                 }
-                else if (nota1 <= 0 || nota2 <= 0 || nota3 <= 0)
+                else if (nota1 < 0 || nota2 < 0 || nota3 < 0)
                 {
-                    MessageBox.Show("Insira valores maiores que zero");
+                    MessageBox.Show("Insira valores maiores ou iguais a zero", "Aviso", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                    return; // Interrompe a execução
                 }
 
 
@@ -38,21 +41,20 @@ namespace prjAula10_04_calcularMedia
 
                 if (media >= 7)
                 {
-                    textMedia.Text = media.ToString();
                     textStatus.Text = "Aprovado";
-
                 }
                 else
                 {
-                    textMedia.Text = media.ToString();
                     textStatus.Text = "Reprovado";
                 }
-
             }
             catch
             {
-                MessageBox.Show("Erro, Insira valores validos");
+                MessageBox.Show("Erro, insira valores válidos");
             }
+
+
+
         }
 
         private void btnSair_Click(object sender, EventArgs e)

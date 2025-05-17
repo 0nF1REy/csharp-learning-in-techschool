@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Professor\\Pictures\\prjCarro\\prjCarro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC481B9-D4FB-490B-A39C-A6E1B43EB4B5}|prjCarro\\prjCarro.csproj|c:\\users\\professor\\pictures\\prjcarro\\prjcarro\\prjcarro\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4EC481B9-D4FB-490B-A39C-A6E1B43EB4B5}|prjCarro\\prjCarro.csproj|solutionrelative:prjcarro\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC481B9-D4FB-490B-A39C-A6E1B43EB4B5}|prjCarro\\prjCarro.csproj|c:\\users\\professor\\pictures\\prjcarro\\prjcarro\\prjcarro\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC481B9-D4FB-490B-A39C-A6E1B43EB4B5}|prjCarro\\prjCarro.csproj|solutionrelative:prjcarro\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC481B9-D4FB-490B-A39C-A6E1B43EB4B5}|prjCarro\\prjCarro.csproj|c:\\users\\professor\\pictures\\prjcarro\\prjcarro\\prjcarro\\views\\cadasto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4EC481B9-D4FB-490B-A39C-A6E1B43EB4B5}|prjCarro\\prjCarro.csproj|solutionrelative:prjcarro\\views\\cadasto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC481B9-D4FB-490B-A39C-A6E1B43EB4B5}|prjCarro\\prjCarro.csproj|c:\\users\\professor\\pictures\\prjcarro\\prjcarro\\prjcarro\\models\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC481B9-D4FB-490B-A39C-A6E1B43EB4B5}|prjCarro\\prjCarro.csproj|solutionrelative:prjcarro\\models\\carro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC481B9-D4FB-490B-A39C-A6E1B43EB4B5}|prjCarro\\prjCarro.csproj|c:\\users\\professor\\pictures\\prjcarro\\prjcarro\\prjcarro\\views\\cadasto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC481B9-D4FB-490B-A39C-A6E1B43EB4B5}|prjCarro\\prjCarro.csproj|solutionrelative:prjcarro\\views\\cadasto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC481B9-D4FB-490B-A39C-A6E1B43EB4B5}|prjCarro\\prjCarro.csproj|c:\\users\\professor\\pictures\\prjcarro\\prjcarro\\prjcarro\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC481B9-D4FB-490B-A39C-A6E1B43EB4B5}|prjCarro\\prjCarro.csproj|solutionrelative:prjcarro\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC481B9-D4FB-490B-A39C-A6E1B43EB4B5}|prjCarro\\prjCarro.csproj|c:\\users\\professor\\pictures\\prjcarro\\prjcarro\\prjcarro\\views\\cadasto.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC481B9-D4FB-490B-A39C-A6E1B43EB4B5}|prjCarro\\prjCarro.csproj|solutionrelative:prjcarro\\views\\cadasto.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Professor\\Pictures\\prjCarro\\prjCarro\\prjCarro\\Form1.cs",
+              "RelativeDocumentMoniker": "prjCarro\\Form1.cs",
+              "ToolTip": "C:\\Users\\Professor\\Pictures\\prjCarro\\prjCarro\\prjCarro\\Form1.cs [Projeto]",
+              "RelativeToolTip": "prjCarro\\Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T20:49:13.382Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Professor\\Pictures\\prjCarro\\prjCarro\\prjCarro\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "prjCarro\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Professor\\Pictures\\prjCarro\\prjCarro\\prjCarro\\Form1.Designer.cs",
+              "RelativeToolTip": "prjCarro\\Form1.Designer.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAwwFgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T20:48:47.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cadasto.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Professor\\Pictures\\prjCarro\\prjCarro\\prjCarro\\Views\\Cadasto.cs",
+              "RelativeDocumentMoniker": "prjCarro\\Views\\Cadasto.cs",
+              "ToolTip": "C:\\Users\\Professor\\Pictures\\prjCarro\\prjCarro\\prjCarro\\Views\\Cadasto.cs [Projeto]",
+              "RelativeToolTip": "prjCarro\\Views\\Cadasto.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T20:44:01.478Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Cadasto.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Professor\\Pictures\\prjCarro\\prjCarro\\prjCarro\\Views\\Cadasto.Designer.cs",
+              "RelativeDocumentMoniker": "prjCarro\\Views\\Cadasto.Designer.cs",
+              "ToolTip": "C:\\Users\\Professor\\Pictures\\prjCarro\\prjCarro\\prjCarro\\Views\\Cadasto.Designer.cs",
+              "RelativeToolTip": "prjCarro\\Views\\Cadasto.Designer.cs",
+              "ViewState": "AgIAAMwAAAAAAAAAAAAwwNYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T20:43:35.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Professor\\Pictures\\prjCarro\\prjCarro\\prjCarro\\Form1.cs",
+              "RelativeDocumentMoniker": "prjCarro\\Form1.cs",
+              "ToolTip": "C:\\Users\\Professor\\Pictures\\prjCarro\\prjCarro\\prjCarro\\Form1.cs",
+              "RelativeToolTip": "prjCarro\\Form1.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowCEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T23:44:44.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cadasto.cs",
+              "DocumentMoniker": "C:\\Users\\Professor\\Pictures\\prjCarro\\prjCarro\\prjCarro\\Views\\Cadasto.cs",
+              "RelativeDocumentMoniker": "prjCarro\\Views\\Cadasto.cs",
+              "ToolTip": "C:\\Users\\Professor\\Pictures\\prjCarro\\prjCarro\\prjCarro\\Views\\Cadasto.cs",
+              "RelativeToolTip": "prjCarro\\Views\\Cadasto.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAwwBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T16:30:26.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Carro.cs",
+              "DocumentMoniker": "C:\\Users\\Professor\\Pictures\\prjCarro\\prjCarro\\prjCarro\\Models\\Carro.cs",
+              "RelativeDocumentMoniker": "prjCarro\\Models\\Carro.cs",
+              "ToolTip": "C:\\Users\\Professor\\Pictures\\prjCarro\\prjCarro\\prjCarro\\Models\\Carro.cs",
+              "RelativeToolTip": "prjCarro\\Models\\Carro.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAADwvxcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T23:51:46.509Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

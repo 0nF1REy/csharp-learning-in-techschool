@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aluno\\Downloads\\GA_DS_ALAN_CRISTOFER\\GA_DS_ALAN_CRISTOFER\\exercicio-ds\\exercicio-ds\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B9A7873-4020-44CF-9923-374EC6917927}|exercicio-ds\\exercicio-ds.csproj|c:\\users\\aluno\\downloads\\ga_ds_alan_cristofer\\ga_ds_alan_cristofer\\exercicio-ds\\exercicio-ds\\exercicio-ds\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0B9A7873-4020-44CF-9923-374EC6917927}|exercicio-ds\\exercicio-ds.csproj|solutionrelative:exercicio-ds\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B9A7873-4020-44CF-9923-374EC6917927}|exercicio-ds\\exercicio-ds.csproj|C:\\Users\\Aluno\\Downloads\\GA_DS_ALAN_CRISTOFER\\GA_DS_ALAN_CRISTOFER\\exercicio-ds\\exercicio-ds\\exercicio-ds\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B9A7873-4020-44CF-9923-374EC6917927}|exercicio-ds\\exercicio-ds.csproj|solutionrelative:exercicio-ds\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\GA_DS_ALAN_CRISTOFER\\GA_DS_ALAN_CRISTOFER\\exercicio-ds\\exercicio-ds\\exercicio-ds\\Form1.cs",
+              "RelativeDocumentMoniker": "exercicio-ds\\Form1.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Downloads\\GA_DS_ALAN_CRISTOFER\\GA_DS_ALAN_CRISTOFER\\exercicio-ds\\exercicio-ds\\exercicio-ds\\Form1.cs [Projeto]",
+              "RelativeToolTip": "exercicio-ds\\Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T22:58:03.217Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\GA_DS_ALAN_CRISTOFER\\GA_DS_ALAN_CRISTOFER\\exercicio-ds\\exercicio-ds\\exercicio-ds\\Form1.cs",
+              "RelativeDocumentMoniker": "exercicio-ds\\Form1.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Downloads\\GA_DS_ALAN_CRISTOFER\\GA_DS_ALAN_CRISTOFER\\exercicio-ds\\exercicio-ds\\exercicio-ds\\Form1.cs",
+              "RelativeToolTip": "exercicio-ds\\Form1.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA5wCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T00:42:42.319Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,17 @@
+C:\Users\Professor\Downloads\QuadraticEquationSolver\QuadraticEquationSolver\bin\Debug\net9.0-windows\QuadraticEquationSolver.exe
+C:\Users\Professor\Downloads\QuadraticEquationSolver\QuadraticEquationSolver\bin\Debug\net9.0-windows\QuadraticEquationSolver.deps.json
+C:\Users\Professor\Downloads\QuadraticEquationSolver\QuadraticEquationSolver\bin\Debug\net9.0-windows\QuadraticEquationSolver.runtimeconfig.json
+C:\Users\Professor\Downloads\QuadraticEquationSolver\QuadraticEquationSolver\bin\Debug\net9.0-windows\QuadraticEquationSolver.dll
+C:\Users\Professor\Downloads\QuadraticEquationSolver\QuadraticEquationSolver\bin\Debug\net9.0-windows\QuadraticEquationSolver.pdb
+C:\Users\Professor\Downloads\QuadraticEquationSolver\QuadraticEquationSolver\obj\Debug\net9.0-windows\QuadraticEquationSolver.frmPrincipal.resources
+C:\Users\Professor\Downloads\QuadraticEquationSolver\QuadraticEquationSolver\obj\Debug\net9.0-windows\QuadraticEquationSolver.csproj.GenerateResource.cache
+C:\Users\Professor\Downloads\QuadraticEquationSolver\QuadraticEquationSolver\obj\Debug\net9.0-windows\QuadraticEquationSolver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Professor\Downloads\QuadraticEquationSolver\QuadraticEquationSolver\obj\Debug\net9.0-windows\QuadraticEquationSolver.AssemblyInfoInputs.cache
+C:\Users\Professor\Downloads\QuadraticEquationSolver\QuadraticEquationSolver\obj\Debug\net9.0-windows\QuadraticEquationSolver.AssemblyInfo.cs
+C:\Users\Professor\Downloads\QuadraticEquationSolver\QuadraticEquationSolver\obj\Debug\net9.0-windows\QuadraticEquationSolver.csproj.CoreCompileInputs.cache
+C:\Users\Professor\Downloads\QuadraticEquationSolver\QuadraticEquationSolver\obj\Debug\net9.0-windows\QuadraticEquationSolver.dll
+C:\Users\Professor\Downloads\QuadraticEquationSolver\QuadraticEquationSolver\obj\Debug\net9.0-windows\refint\QuadraticEquationSolver.dll
+C:\Users\Professor\Downloads\QuadraticEquationSolver\QuadraticEquationSolver\obj\Debug\net9.0-windows\QuadraticEquationSolver.pdb
+C:\Users\Professor\Downloads\QuadraticEquationSolver\QuadraticEquationSolver\obj\Debug\net9.0-windows\QuadraticEquationSolver.genruntimeconfig.cache
+C:\Users\Professor\Downloads\QuadraticEquationSolver\QuadraticEquationSolver\obj\Debug\net9.0-windows\ref\QuadraticEquationSolver.dll
+C:\Users\Professor\Downloads\QuadraticEquationSolver\QuadraticEquationSolver\obj\Debug\net9.0-windows\QuadraticEquationSolver.Properties.Resources.resources

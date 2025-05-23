@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "K21vPy5rb88=",
+  "dgSpecHash": "UzhFXM6pky0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Omen\\source\\repos\\prjAula10-04-calcularMedia\\prjAula10-04-calcularMedia\\prjAula10-04-calcularMedia.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/home/alan/Área de trabalho/csharp-learning-in-techschool/prjAula10-04-calcularMedia/prjAula10-04-calcularMedia.csproj",
+  "expectedPackageFiles": [
+    "/home/alan/.nuget/packages/microsoft.netcore.app.ref/8.0.15/microsoft.netcore.app.ref.8.0.15.nupkg.sha512",
+    "/home/alan/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.15/microsoft.aspnetcore.app.ref.8.0.15.nupkg.sha512",
+    "/home/alan/.nuget/packages/microsoft.netcore.app.host.linux-x64/8.0.15/microsoft.netcore.app.host.linux-x64.8.0.15.nupkg.sha512"
+  ],
   "logs": []
 }

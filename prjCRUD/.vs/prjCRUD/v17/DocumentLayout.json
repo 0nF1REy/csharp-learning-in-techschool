@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aluno\\Downloads\\prjCRUD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8695F79-E3BD-4D0A-8D41-BE57D7CAC55A}|prjCRUD.csproj|c:\\users\\aluno\\downloads\\prjcrud\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E8695F79-E3BD-4D0A-8D41-BE57D7CAC55A}|prjCRUD.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8695F79-E3BD-4D0A-8D41-BE57D7CAC55A}|prjCRUD.csproj|C:\\Users\\Aluno\\Downloads\\prjCRUD\\database\\contato.sql||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{E8695F79-E3BD-4D0A-8D41-BE57D7CAC55A}|prjCRUD.csproj|solutionrelative:database\\contato.sql||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8695F79-E3BD-4D0A-8D41-BE57D7CAC55A}|prjCRUD.csproj|C:\\Users\\Aluno\\Downloads\\prjCRUD\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8695F79-E3BD-4D0A-8D41-BE57D7CAC55A}|prjCRUD.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8695F79-E3BD-4D0A-8D41-BE57D7CAC55A}|prjCRUD.csproj|C:\\Users\\Aluno\\Downloads\\prjCRUD\\prjcrud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E8695F79-E3BD-4D0A-8D41-BE57D7CAC55A}|prjCRUD.csproj|solutionrelative:prjcrud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8695F79-E3BD-4D0A-8D41-BE57D7CAC55A}|prjCRUD.csproj|C:\\Users\\Aluno\\Downloads\\prjCRUD\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8695F79-E3BD-4D0A-8D41-BE57D7CAC55A}|prjCRUD.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8695F79-E3BD-4D0A-8D41-BE57D7CAC55A}|prjCRUD.csproj|C:\\Users\\Aluno\\Downloads\\prjCRUD\\models\\contato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8695F79-E3BD-4D0A-8D41-BE57D7CAC55A}|prjCRUD.csproj|solutionrelative:models\\contato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8695F79-E3BD-4D0A-8D41-BE57D7CAC55A}|prjCRUD.csproj|C:\\Users\\Aluno\\Downloads\\prjCRUD\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8695F79-E3BD-4D0A-8D41-BE57D7CAC55A}|prjCRUD.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\prjCRUD\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Downloads\\prjCRUD\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T23:34:34.381Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\prjCRUD\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Downloads\\prjCRUD\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T23:34:48.445Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\prjCRUD\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Downloads\\prjCRUD\\Form1.cs [Projeto]",
+              "RelativeToolTip": "Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T00:36:43.891Z",
+              "IsPinned": true,
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\prjCRUD\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Downloads\\prjCRUD\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAM8AAAAAAAAAAAAwwHAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T23:11:46.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "prjCRUD.csproj",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\prjCRUD\\prjCRUD.csproj",
+              "RelativeDocumentMoniker": "prjCRUD.csproj",
+              "ToolTip": "C:\\Users\\Aluno\\Downloads\\prjCRUD\\prjCRUD.csproj",
+              "RelativeToolTip": "prjCRUD.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-29T23:34:42.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Contato.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\prjCRUD\\Models\\Contato.cs",
+              "RelativeDocumentMoniker": "Models\\Contato.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Downloads\\prjCRUD\\Models\\Contato.cs",
+              "RelativeToolTip": "Models\\Contato.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T23:03:30.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "contato.sql",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Downloads\\prjCRUD\\Database\\contato.sql",
+              "RelativeDocumentMoniker": "Database\\contato.sql",
+              "ToolTip": "C:\\Users\\Aluno\\Downloads\\prjCRUD\\Database\\contato.sql",
+              "RelativeToolTip": "Database\\contato.sql",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-05-29T22:49:47.641Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
